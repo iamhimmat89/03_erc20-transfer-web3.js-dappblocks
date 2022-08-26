@@ -1,5 +1,5 @@
 {
-  "name": "03_erc20-transfer",
+  "name": "02_ethtransfer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
