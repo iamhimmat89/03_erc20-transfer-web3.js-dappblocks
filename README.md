@@ -2,6 +2,10 @@
 
 Tranfer ERC20 token from one account to other using web3.js and ethereum testnet
 
+- YouTube Video
+
+[![Transfer ERC-20 web3.js](https://img.youtube.com/vi/DVQaQ0NDCoQ/0.jpg)](https://www.youtube.com/watch?v=DVQaQ0NDCoQ&list=PLf6bwte-_HkIJ2aj4PdUpXHWmJJBoYuvz&index=4)
+
 ## Project Setup
 
 1. Install node.js
